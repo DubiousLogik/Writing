@@ -1,0 +1,28 @@
+
+
+Tracer photon - entangled, one of the pair sent out, the other kept. 
+  It can tell when it has been observed (vs reflected or bounced off another surface)
+  It can tell when it becomes information
+
+Quantized Universe is required for anything to happen
+  Frequency of vibrations of energy defines its pulse
+  Quantize size required for motion - in the land of infinitly small you can put things into zero space
+  Motion requires nonzero space, min quanta of distance
+  Motion and time are relative to something else, cannot exist independently
+
+"Everything we call real is made of things that cannot be regarded as real" - Niels Bohr
+
+"You'd better not be relying on hull material to keep you safe from interstellar debris.
+If you can't enforce clear space in front of your ship you're not going anywhere."
+
+http://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/
+Pandocs
+
+You can use Beyond Compare as external diff tool for hg. Add to/change your user mercurial.ini as:
+[extdiff]
+cmd.vdiff = c:/path/to/BCompare.exe
+
+
+Collared workers - they have restraint collars, like an ankle cuff or neck collar, as a way to be on work release
+
+Darmok & Jalad at Tanagra
